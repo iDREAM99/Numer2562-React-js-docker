@@ -1,0 +1,29 @@
+.La{
+    padding:  10%;
+    text-align: center;
+    background-image: url(../12.jpg);
+    background-attachment: fixed;
+
+  }
+  .La-b{
+    text-align: center;
+    background-color: #F9F7F2;
+  }
+  
+  .La-h1 {
+    
+    text-align: center;
+    
+  }
+  .La-Gh {
+   
+    text-align: center;
+    width: auto;
+    height:  auto;
+    margin:  auto;
+  }
+  .La-back{
+    text-align: center;
+    
+  }
+  

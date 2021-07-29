@@ -1,0 +1,12 @@
+.home{
+    padding: 20%;
+    background-image: url(./12.jpg);
+    background-attachment: fixed;
+  }
+
+  .home-b{
+    text-align: center;
+    background-color: #F9F7F2;
+  }
+  
+  

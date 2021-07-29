@@ -1,0 +1,28 @@
+.test{
+  padding:  10%;
+  text-align: center;
+  background-image: url(../12.jpg);
+  background-attachment: fixed;
+    
+    
+  }
+  
+  .test-h1 {
+    background-color: #F9F7F2;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font: 1em ;
+  }
+  .test-Gh {
+    background-color: #F9F7F2;
+    text-align: center;
+    width: auto;
+    height:  auto;
+    margin:  auto;
+  }
+  .test-back{
+    text-align: center;
+    background-color: #F9F7F2;
+  }
+  
+  
